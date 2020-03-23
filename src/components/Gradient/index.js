@@ -24,7 +24,7 @@ const Gradient = ({children}) => {
       }}
     >
       <div>
-        <label>你想要做什么......</label>
+        <label>你想要......</label>
         {children}
       </div>
       <div className={styles.inputGroup}>
